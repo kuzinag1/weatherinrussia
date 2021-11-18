@@ -4,9 +4,9 @@ plugins {
 	id 'java'
 }
 
-group = 'ru.cardifbox'
+group = 'ru.weather'
 version = '1.0'
-sourceCompatibility = '11'
+sourceCompatibility = '1.8'
 
 configurations {
 	compileOnly {
